@@ -1,7 +1,7 @@
 # HackerRank Problem Solutions
 
 <p align="center" width="100%">
-  <img src = https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png width = "500">
+  <img src = https://wizardsourcer.com/wp-content/uploads/2021/10/HackerRank-logo.png width = "500">
 </p>
 
 My questionable solutions for HackerRank problems
