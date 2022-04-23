@@ -20,8 +20,6 @@ Problem Solving
 | Warmup | Problem Solving (Basic) | Easy | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](https://github.com/nadiarizkyhairunnisa/hackerrank-solutions/tree/main/algorithms/Staircase)
 | Warmup | Problem Solving (Basic) | Easy | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/nadiarizkyhairunnisa/hackerrank-solutions/tree/main/algorithms/Mini-Max%20Sum)
 | Warmup | Problem Solving (Basic) | Easy | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) |[Solution](https://github.com/nadiarizkyhairunnisa/hackerrank-solutions/tree/main/algorithms/Birthday%20Cake%20Candles)
-| Warmup | Problem Solving (Basic) | Easy | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) |
-[Solution](https://github.com/nadiarizkyhairunnisa/hackerrank-solutions/tree/main/algorithms/Time%20Conversion)
-| Warmup | Problem Solving (Basic) | Easy | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |
-[Solution](https://github.com/nadiarizkyhairunnisa/hackerrank-solutions/tree/main/algorithms/Grading%20Students)
+| Warmup | Problem Solving (Basic) | Easy | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/nadiarizkyhairunnisa/hackerrank-solutions/tree/main/algorithms/Time%20Conversion)
+| Warmup | Problem Solving (Basic) | Easy | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/nadiarizkyhairunnisa/hackerrank-solutions/tree/main/algorithms/Grading%20Students)
 
