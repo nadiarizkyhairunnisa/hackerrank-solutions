@@ -22,4 +22,5 @@ Problem Solving
 | Warmup | Problem Solving (Basic) | Easy | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) |[Solution](https://github.com/nadiarizkyhairunnisa/hackerrank-solutions/tree/main/algorithms/Birthday%20Cake%20Candles)
 | Warmup | Problem Solving (Basic) | Easy | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/nadiarizkyhairunnisa/hackerrank-solutions/tree/main/algorithms/Time%20Conversion)
 | Warmup | Problem Solving (Basic) | Easy | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/nadiarizkyhairunnisa/hackerrank-solutions/tree/main/algorithms/Grading%20Students)
-
+| Implementation | Problem Solving (Basic) | Easy | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution](https://github.com/nadiarizkyhairunnisa/hackerrank-solutions/tree/main/algorithms/Apple%20and%20Orange)
+| Implementation | Problem Solving (Basic) | Easy | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/nadiarizkyhairunnisa/hackerrank-solutions/tree/main/algorithms/Number%20Line%20Jumps)
