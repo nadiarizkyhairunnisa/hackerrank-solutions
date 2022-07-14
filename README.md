@@ -4,7 +4,7 @@
   <img src = https://wizardsourcer.com/wp-content/uploads/2021/10/HackerRank-logo.png width = "500">
 </p>
 
-My questionable solutions for HackerRank problems
+My *questionable* solutions for HackerRank problems :D
 
 Problem Solving
 ---
